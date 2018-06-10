@@ -14,6 +14,14 @@
 - https://github.com/Safari-FIDO-U2F/Safari-FIDO-U2F
 - https://github.com/github/SoftU2F
 - https://demo.yubico.com/u2f?tab=login
+- https://news.ycombinator.com/item?id=14840913
+
+## U2F Libraries
+- https://developers.yubico.com/U2F/Libraries/
+
+## Serverless FIDO U2F test
+- https://github.com/rongarret/u2f-test
+
 
 ## USB-Dongle Authentication
 - https://www.dongleauth.info/
